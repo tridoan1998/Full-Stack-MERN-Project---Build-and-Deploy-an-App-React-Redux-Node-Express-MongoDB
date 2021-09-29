@@ -1,2 +1,2 @@
-# Full-Stack-MERN-Project---Build-and-Deploy-an-App-React-Redux-Node-Express-MongoDB
-Full Stack MERN Project - Build and Deploy an App | React + Redux, Node, Express, MongoDB
+# Bank-Management-System
+Create a banking system for people to use similar to any real bank in the USA.
